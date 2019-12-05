@@ -1,0 +1,1 @@
+cut -d, -f1,4,8,15,18,22,29,32,36,43,44,46,50 --complement verao-treinamento.csv > verao-treinamento2.csv

@@ -1,0 +1,2 @@
+cut -d, -f8,22,36,50 --complement verao-treinamento2.csv > verao-treinamento3.csv
+retirar caracter - e :
